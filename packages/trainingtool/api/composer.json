@@ -1,0 +1,13 @@
+{
+    "name": "training-tool/api",
+    "description": "Trainig tool API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aman Kumar",
+            "email": "aman@rudrainnovatives.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
